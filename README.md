@@ -2,4 +2,4 @@
 Integrantes: 
 - Arturo Arrua
 - Adolfo Benitez
-- Segrio Frutos
+- Sergio Frutos
